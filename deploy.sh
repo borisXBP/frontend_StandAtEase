@@ -1,0 +1,1 @@
+rsync -r dist/* root@1.12.70.204:/home/boris/relax/
